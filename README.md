@@ -1,0 +1,1 @@
+so my task it seems is to make a recipe website which should not be too hard given tha i have all the tools to do so and its more so problem solving.
